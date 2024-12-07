@@ -1,6 +1,4 @@
-Iam text file
-Addition Data
+1) Iam in Tirupati doing Add changes
+====================================
 
-
-Substraction Data
-=====================
+x = a+b;
